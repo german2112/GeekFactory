@@ -1,7 +1,7 @@
 
 
-let formulario = document.getElementById("lista");
-formulario.style.display="none";
+/*let formulario = document.getElementById("lista");
+formulario.style.display="none";*/
 
 let objetoCriterios={
   nombre: "",
